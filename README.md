@@ -1,4 +1,4 @@
-# Data Science Academy (React)
+# Data Science Academy
 
 An interactive learning platform for **Statistics**, **Machine Learning**, and **Data Science**.
 
@@ -34,10 +34,10 @@ The current release includes a complete, retention-focused **Bayes’ Theorem** 
 
 ```bash
 # 1) Clone
-git clone https://github.com/SyedAkramaIrshad/data-science-academy-react.git
+git clone https://github.com/SyedAkramaIrshad/data-science-academy.git
 
 # 2) Enter project
-cd data-science-academy-react
+cd data-science-academy
 
 # 3) Install dependencies
 npm install
